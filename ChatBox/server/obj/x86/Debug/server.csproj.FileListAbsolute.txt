@@ -1,0 +1,7 @@
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\bin\Debug\server.exe.config
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\bin\Debug\server.exe
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\bin\Debug\server.pdb
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\obj\x86\Debug\server.csproj.AssemblyReference.cache
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\obj\x86\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\obj\x86\Debug\server.exe
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 2\A2_chatbox\starting_code\server\obj\x86\Debug\server.pdb

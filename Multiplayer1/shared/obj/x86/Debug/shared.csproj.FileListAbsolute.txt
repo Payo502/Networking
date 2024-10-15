@@ -1,0 +1,6 @@
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 3\starting_code\shared\bin\Debug\shared.dll
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 3\starting_code\shared\bin\Debug\shared.pdb
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 3\starting_code\shared\obj\x86\Debug\shared.csproj.AssemblyReference.cache
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 3\starting_code\shared\obj\x86\Debug\shared.csproj.CoreCompileInputs.cache
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 3\starting_code\shared\obj\x86\Debug\shared.dll
+C:\Users\patgh\Documents\SaxionCMGT\Year 2\Term 3\Networking\Assignment 3\starting_code\shared\obj\x86\Debug\shared.pdb

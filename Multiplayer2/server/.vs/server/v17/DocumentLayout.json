@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\server\\src\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|solutionrelative:src\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\serialization\\tcpmessagechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\tcpgameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|solutionrelative:src\\tcpgameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\protocol\\heartbeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\rooms\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|solutionrelative:src\\rooms\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\rooms\\lobbyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C5E3A8-A578-4205-9D42-76224DDEF1D2}|server.csproj|solutionrelative:src\\rooms\\lobbyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\model\\tictactoeboarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\protocol\\game\\makemoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\protocol\\game\\gamenameinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\protocol\\lobby\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\protocol\\login\\playerjoinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\protocol\\login\\playerjoinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36766025-0AB2-4EA8-8A7F-ED4E33111157}|..\\shared\\shared.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\shared\\src\\model\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TcpMessageChannel.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\serialization\\TcpMessageChannel.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\serialization\\TcpMessageChannel.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\serialization\\TcpMessageChannel.cs",
+              "RelativeToolTip": "..\\shared\\src\\serialization\\TcpMessageChannel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:52:02.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Heartbeat.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Heartbeat.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\protocol\\Heartbeat.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Heartbeat.cs",
+              "RelativeToolTip": "..\\shared\\src\\protocol\\Heartbeat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:53:12.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\Room.cs",
+              "RelativeDocumentMoniker": "src\\Room.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\Room.cs",
+              "RelativeToolTip": "src\\Room.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwHAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:39:12.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakeMoveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Game\\MakeMoveRequest.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\protocol\\Game\\MakeMoveRequest.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Game\\MakeMoveRequest.cs",
+              "RelativeToolTip": "..\\shared\\src\\protocol\\Game\\MakeMoveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:05:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LobbyRoom.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\rooms\\LobbyRoom.cs",
+              "RelativeDocumentMoniker": "src\\rooms\\LobbyRoom.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\rooms\\LobbyRoom.cs",
+              "RelativeToolTip": "src\\rooms\\LobbyRoom.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAlwFoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:51:10.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameNameInit.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Game\\GameNameInit.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\protocol\\Game\\GameNameInit.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Game\\GameNameInit.cs",
+              "RelativeToolTip": "..\\shared\\src\\protocol\\Game\\GameNameInit.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:49:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\rooms\\GameRoom.cs",
+              "RelativeDocumentMoniker": "src\\rooms\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\rooms\\GameRoom.cs",
+              "RelativeToolTip": "src\\rooms\\GameRoom.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:43:25.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Lobby\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\protocol\\Lobby\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Lobby\\ChatMessage.cs",
+              "RelativeToolTip": "..\\shared\\src\\protocol\\Lobby\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:30:58.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerJoinRequest.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Login\\PlayerJoinRequest.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\protocol\\Login\\PlayerJoinRequest.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Login\\PlayerJoinRequest.cs",
+              "RelativeToolTip": "..\\shared\\src\\protocol\\Login\\PlayerJoinRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:25:03.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\log\\Log.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\log\\Log.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\log\\Log.cs",
+              "RelativeToolTip": "..\\shared\\src\\log\\Log.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:23:29.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerJoinResponse.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Login\\PlayerJoinResponse.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\protocol\\Login\\PlayerJoinResponse.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\protocol\\Login\\PlayerJoinResponse.cs",
+              "RelativeToolTip": "..\\shared\\src\\protocol\\Login\\PlayerJoinResponse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:37:48.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicTacToeBoardData.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\model\\TicTacToeBoardData.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\model\\TicTacToeBoardData.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\model\\TicTacToeBoardData.cs",
+              "RelativeToolTip": "..\\shared\\src\\model\\TicTacToeBoardData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:56:43.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\model\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "..\\shared\\src\\model\\PlayerInfo.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\shared\\src\\model\\PlayerInfo.cs",
+              "RelativeToolTip": "..\\shared\\src\\model\\PlayerInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:55:19.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCPGameServer.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\TCPGameServer.cs",
+              "RelativeDocumentMoniker": "src\\TCPGameServer.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\server\\src\\TCPGameServer.cs",
+              "RelativeToolTip": "src\\TCPGameServer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA7wCgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:28:24.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\views\\endview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\views\\endview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|c:\\users\\patgh\\documents\\saxioncmgt\\year 2\\term 3\\networking\\assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\core\\applicationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\core\\applicationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\states\\lobbystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\states\\lobbystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\views\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\views\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\views\\lobbyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\views\\lobbyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\states\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\states\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\_donttouch\\plugins\\ingamedebugconsole\\scripts\\debuglogconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\_donttouch\\plugins\\ingamedebugconsole\\scripts\\debuglogconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\core\\applicationfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\core\\applicationfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\fsm\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\assets\\scripts\\unitysystemconsoleredirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitysystemconsoleredirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndView.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\EndView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\views\\EndView.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\EndView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\views\\EndView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:05:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationState.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\core\\ApplicationState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\core\\ApplicationState.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\core\\ApplicationState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\core\\ApplicationState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:15:50.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameView.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\GameView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\views\\GameView.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\GameView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\views\\GameView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:45:39.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\states\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\states\\GameState.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\states\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\states\\GameState.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwDsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:44:02.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DebugLogConsole.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\_DontTouch\\Plugins\\IngameDebugConsole\\Scripts\\DebugLogConsole.cs",
+              "RelativeDocumentMoniker": "Assets\\_DontTouch\\Plugins\\IngameDebugConsole\\Scripts\\DebugLogConsole.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\_DontTouch\\Plugins\\IngameDebugConsole\\Scripts\\DebugLogConsole.cs",
+              "RelativeToolTip": "Assets\\_DontTouch\\Plugins\\IngameDebugConsole\\Scripts\\DebugLogConsole.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:53:01.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LobbyView.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\LobbyView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\views\\LobbyView.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\LobbyView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\views\\LobbyView.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:33:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\LoginView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\views\\LoginView.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\views\\LoginView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\views\\LoginView.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:26:57.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginState.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\states\\LoginState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\states\\LoginState.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\states\\LoginState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\states\\LoginState.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAArwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:51:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationFSM.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\core\\ApplicationFSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\core\\ApplicationFSM.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\core\\ApplicationFSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\core\\ApplicationFSM.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:50:30.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitySystemConsoleRedirector.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\UnitySystemConsoleRedirector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitySystemConsoleRedirector.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\UnitySystemConsoleRedirector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitySystemConsoleRedirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:50:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LobbyState.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\states\\LobbyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\fsm\\states\\LobbyState.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\fsm\\states\\LobbyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\fsm\\states\\LobbyState.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwF0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:50:13.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\patgh\\Documents\\SaxionCMGT\\Year 2\\Term 3\\Networking\\Assignment 4\\starting_code\\client\\Assets\\Scripts\\GameBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:29:12.847Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
